@@ -1,1 +1,1 @@
-print("file is being fucked by spokycap right now")
+print ("file is being fucked by spokycap right now")
